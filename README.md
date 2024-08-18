@@ -3,7 +3,7 @@
 **ID:** CT08DS6952
 **Domain:** Web Development
 **Duration:**  August to september
-**Mentor**
+**Mentor** Neela Santhosh Kumar 
 
 **Project Overview**
 The To-Do List web application is a straightforward yet powerful tool designed to help users manage their daily tasks efficiently. The project serves as an example of how fundamental web development technologies—HTML, CSS, and JavaScript—can be combined to create a practical, user-friendly application.
